@@ -74,6 +74,9 @@ def send_message(event=None):
 root = tk.Tk()
 root.title("Sydney Chat (ChatGPT) by X4815162342")
 root.geometry("800x600")
+#root.geometry("500x400")
+#root.geometry("1280x960")
+#root.geometry("1920x1080")
 #! สำหรับ Fix Windows Size : resizeable จะไม่สามารถขยายจอได้
 #root.resizable(0, 0)
 
